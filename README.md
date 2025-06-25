@@ -147,8 +147,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/artistly.git
-cd artistly/booking-platform-frontend-main
+git clone https://github.com/Prashanth2Github/Artistly.git
+cd artistly/artistly
 ```
 
 ### 2. Install Dependencies
