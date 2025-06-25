@@ -179,7 +179,7 @@ npm run build
 
 ## 📬 Contact
 
-Built by [Your Name] – [your.email@example.com]
+Built by Prashanth Bonkuru – bonkuruprashanth05@gmail.com
 
 ---
 
